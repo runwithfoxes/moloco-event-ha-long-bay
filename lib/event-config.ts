@@ -12,48 +12,78 @@ export const eventConfig = {
   "heroDescription": "An invitation-only gathering for senior leaders shaping the future of commerce and machine learning.",
   "experienceHeadline": "Thirty leaders.\\nA UNESCO World Heritage bay.\\nNo slides.",
   "experienceParagraphs": [
-    "A closed-door, invitation-only evening designed for connection, not networking. The group is deliberately small. Senior enough to speak candidly, diverse enough to challenge each other’s assumptions.",
-    "The conversation centres on what machine learning is actually changing in commerce. Not the theory, but the reality. What’s working, what’s not, and what the next twelve months look like.",
+    "A closed-door, invitation-only evening designed for connection, not networking. The group is deliberately small. Senior enough to speak candidly, diverse enough to challenge each other's assumptions.",
+    "The conversation centres on what machine learning is actually changing in commerce. Not the theory, but the reality. What's working, what's not, and what the next twelve months look like.",
     "We gather at Ha Long Bay, where Vietnam's gaming leaders connect against one of nature's most spectacular backdrops."
   ],
   "agendaItems": [
     {
-      "time": "12:00 PM",
-      "title": "Arrival & Welcome Drinks",
-      "description": "Cocktails in the bar area. Introductions happen naturally when the setting is right and the group is deliberately small."
+      "time": "May 21 (Thu)",
+      "title": "Day 1",
+      "description": "Arrival before 12PM"
     },
     {
-      "time": "12:30 PM",
-      "title": "Executive Session",
-      "description": "An unscripted discussion on the future of AI-driven performance, industry evolution, ecosystem collaboration, and what the next twelve months look like."
+      "time": "12:00–13:00",
+      "title": "Lunch",
+      "description": "Welcome lunch for all attendees"
     },
     {
-      "time": "12:45 PM",
-      "title": "Dinner",
+      "time": "13:00–15:30",
+      "title": "Sessions",
+      "description": "• How we support the full lifecycle of gaming journey\\n• Building a sustainable app business (Yoni)\\n• Global cases & customer panel discussion"
+    },
+    {
+      "time": "15:30–18:00",
+      "title": "Break & Meetings",
+      "description": "Networking break and individual meetings"
+    },
+    {
+      "time": "18:00–22:00",
+      "title": "Gala Dinner",
       "description": "A curated Vietnamese feast featuring the finest coastal cuisine while surrounded by the bay's legendary limestone formations."
     },
     {
-      "time": "3:00 PM",
-      "title": "Event Close",
-      "description": "An informal close as the evening winds down."
+      "time": "Overnight",
+      "title": "Hotel Stay",
+      "description": "1 night hotel accommodation"
+    },
+    {
+      "time": "May 22 (Fri)",
+      "title": "Day 2",
+      "description": "Retreat activities and departure day"
+    },
+    {
+      "time": "08:00–11:00",
+      "title": "Retreat & Meetings",
+      "description": "• Pickleball tournament or other activities"
+    },
+    {
+      "time": "12:00–13:00",
+      "title": "Lunch",
+      "description": "Final meal together before departure"
+    },
+    {
+      "time": "After 13:00",
+      "title": "Departure",
+      "description": "Event concludes"
     }
   ],
   "agendaShort": [
     {
-      "time": "12:00 PM",
-      "label": "Arrival & welcome drinks"
+      "time": "May 21 (Thu)",
+      "label": "Arrival & lunch"
     },
     {
-      "time": "12:30 PM",
-      "label": "Executive session"
+      "time": "13:00–15:30",
+      "label": "Sessions"
     },
     {
-      "time": "12:45 PM",
-      "label": "Dinner"
+      "time": "18:00–22:00",
+      "label": "Gala dinner"
     },
     {
-      "time": "3:00 PM",
-      "label": "Event close"
+      "time": "May 22 (Fri)",
+      "label": "Retreat & departure"
     }
   ],
   "faqItems": [
@@ -63,7 +93,7 @@ export const eventConfig = {
     },
     {
       "q": "Who is this event for?",
-      "a": "Senior executives and leadership in growth, UA, product, monetisation, and performance marketing. We keep the group to around 30 people. Small enough that everyone speaks, diverse enough that you’ll hear something that changes how you think about a problem."
+      "a": "Senior executives and leadership in growth, UA, product, monetisation, and performance marketing. We keep the group to around 30 people. Small enough that everyone speaks, diverse enough that you'll hear something that changes how you think about a problem."
     },
     {
       "q": "Is this a public event / can I bring a +1?",
@@ -71,7 +101,7 @@ export const eventConfig = {
     },
     {
       "q": "What should I wear?",
-      "a": "Smart casual. Polished but comfortable. Think what you’d wear to dinner with people you want to impress without looking like you tried."
+      "a": "Smart casual. Polished but comfortable. Think what you'd wear to dinner with people you want to impress without looking like you tried."
     },
     {
       "q": "Is there a cost to attend?",
@@ -79,7 +109,7 @@ export const eventConfig = {
     },
     {
       "q": "What about dietary requirements?",
-      "a": "Ha Long Bay, Vietnam accommodates dietary needs: vegetarian, vegan, gluten-free, allergies. Note yours on the registration form and they’ll take care of it."
+      "a": "Ha Long Bay, Vietnam accommodates dietary needs: vegetarian, vegan, gluten-free, allergies. Note yours on the registration form and they'll take care of it."
     }
   ],
   "calendarTitle": "Moloco VIP Connect — Ha Long Bay Leadership Dinner",
