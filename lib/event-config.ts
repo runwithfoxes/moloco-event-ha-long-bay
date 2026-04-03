@@ -10,7 +10,7 @@ export const eventConfig = {
   "heroHeadline": "VIP Connect",
   "heroSubheadline": "Ha Long Bay Leadership Dinner",
   "heroDescription": "An invitation-only gathering for senior leaders shaping the future of commerce and machine learning.",
-  "experienceHeadline": "",
+  "experienceHeadline": "Thirty leaders. Unesco World Heritage bay. No slides.",
   "experienceParagraphs": [
     "A closed-door, invitation-only evening designed for connection, not networking. The group is deliberately small. Senior enough to speak candidly, diverse enough to challenge each other's assumptions.",
     "The conversation centres on what machine learning is actually changing in commerce. Not the theory, but the reality. What's working, what's not, and what the next twelve months look like.",
