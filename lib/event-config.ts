@@ -130,7 +130,7 @@ export const eventConfig = {
   "venueDescription": "Ha Long Bay's emerald waters and towering limestone karsts create one of the world's natural wonders. This UNESCO World Heritage site offers a breathtaking backdrop where ancient geological formations meet modern luxury. The bay's mystical atmosphere provides an unparalleled setting for meaningful connections away from the everyday.",
   "venueCapacityNote": "An intimate gathering space aboard a luxury vessel with panoramic bay views.",
   "venueDiningNote": "Vietnamese coastal cuisine featuring fresh seafood and regional specialties.",
-  "venueDirections": "Located approximately 165km from Hanoi's city center, accessible via private helicopter transfer or luxury coach service to Ha Long Bay harbor. boarding details will be provided with confirmation.",
+  "venueDirections": "Located approximately 165km from Hanoi's city center, accessible via private helicopter transfer or luxury coach service to Ha Long Bay harbor. Boarding details will be provided with confirmation.",
   "venueExperienceLine": "We gather at Ha Long Bay, where Vietnam's gaming leaders connect against one of nature's most spectacular backdrops.",
   "dinnerDescription": "A curated Vietnamese feast featuring the finest coastal cuisine while surrounded by the bay's legendary limestone formations.",
   "mapsUrl": "https://maps.google.com/search/Ha+Long+Bay,+Quang+Ninh+Province,+Vietnam"
